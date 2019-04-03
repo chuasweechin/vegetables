@@ -1,0 +1,62 @@
+body {
+	margin-top: 30px;
+}
+
+.nav {
+	font-size: 15px;
+	padding: 5px 0px 5px 10px;
+}
+
+.nav:hover {
+	color: #FFFFFF;
+	border-radius: 4px;
+	background-color: #0072D8;
+}
+
+.nav > a {
+	text-decoration: none;
+}
+
+.nav > a:hover {
+	color: #FFFFFF;
+}
+
+input[type=text] {
+	width: 100%;
+	border: 1px solid #ECEEEF;
+	border-radius: 4px;
+}
+
+input[type=button] {
+	padding: 2px 15px;
+	margin-top: 5px;
+	border: 1px solid #0072D8;
+	border-radius: 4px;
+	color: white;
+	background-color: #0072D8;
+}
+
+.content {
+	padding-left: 12px;
+	border-left: 4px solid #ECEEEF;
+}
+
+.table {
+	font-size: 15px;
+}
+
+.album {
+	padding: 0;
+	font-size: 15px;
+}
+
+.imageSizeOne {
+  width: 100%;
+  height: auto;
+}
+
+.imageSizeTwo {
+	width: 50%;
+  height: auto;
+
+}
